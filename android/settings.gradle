@@ -1,0 +1,3 @@
+rootProject.name = 'NativeBaseIkhsan'
+
+include ':app'
